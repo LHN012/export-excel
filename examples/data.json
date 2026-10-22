@@ -1,0 +1,17 @@
+{
+  "customer": {
+    "name": "张三",
+    "phone": "13800000000"
+  },
+  "exportedAt": "2026-10-21",
+  "orderTotal": 65,
+  "orders": [
+    { "productName": "钢笔", "quantity": 2, "unitPrice": 12.5 },
+    { "productName": "笔记本", "quantity": 5, "unitPrice": 8 }
+  ],
+  "payments": [
+    { "date": "2026-10-20", "amount": 30 },
+    { "date": "2026-10-21", "amount": 35 }
+  ],
+  "tags": ["加急处理", "送货上门"]
+}
